@@ -1,0 +1,8 @@
+{
+  "name": "@vue-mini/reactivity",
+  "version": "0.0.1",
+  "description": "@vue-mini/reactivity",
+  "main": "index.js",
+  "author": "zhangzhonghe <958414905@qq.com>",
+  "license": "Apache"
+}
